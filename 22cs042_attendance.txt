@@ -1,0 +1,27 @@
+Attendance Data for: 22cs042
+
+Course: CSE201 / JP
+Class Type: LECT
+Total: 5 / 6
+Percentage: 83%
+--------------------------------------
+Course: CSE201 / JP
+Class Type: LAB
+Total: 6 / 7
+Percentage: 85%
+--------------------------------------
+Course: CSE202 / MCO
+Class Type: LECT
+Total: 9 / 10
+Percentage: 90%
+--------------------------------------
+Course: CSE202 / MCO
+Class Type: LAB
+Total: 2 / 3
+Percentage: 66%
+--------------------------------------
+Course: CSE203 / DSA
+Class Type: LECT
+Total: 10 / 10
+Percentage: 100%
+--------------------------------------
