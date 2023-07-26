@@ -36,6 +36,20 @@ input[type="text"] {
     border: 2px solid #ccc;
     border-radius: 4px;
     min-width: 200px;
+    margin-right: 20px;
+    /* Adjust width as needed */
+}
+
+input[type="password"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    min-width: 200px;
+    /*left side some more space because of another input*/
+    margin-left: 20px;
+    margin-right: 50px;
+
     /* Adjust width as needed */
 }
 
@@ -104,3 +118,4 @@ tr:nth-child(even) {
 .footer p {
     font-size: 14px;
 }
+
